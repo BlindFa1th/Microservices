@@ -1,0 +1,8 @@
+com\team\up\serviceusers\api\UserController.class
+com\team\up\serviceusers\ServiceUsersApplication.class
+com\team\up\serviceusers\exceptions\UserNotFoundException.class
+com\team\up\serviceusers\repo\model\Userclass\User.class
+com\team\up\serviceusers\service\UserService.class
+com\team\up\serviceusers\repo\model\Role.class
+com\team\up\serviceusers\api\config\UserConfig.class
+com\team\up\serviceusers\repo\UserRepository.class

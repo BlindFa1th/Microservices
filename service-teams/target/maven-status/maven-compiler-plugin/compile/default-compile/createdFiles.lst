@@ -1,0 +1,8 @@
+com\team\up\serviceteams\ServiceTeamsApplication.class
+com\team\up\serviceteams\exceptions\TeamNotFoundException.class
+com\team\up\serviceteams\repo\model\Userclass\User.class
+com\team\up\serviceteams\repo\TeamRepository.class
+com\team\up\serviceteams\service\TeamService.class
+com\team\up\serviceteams\api\config\TeamConfig.class
+com\team\up\serviceteams\api\TeamController.class
+com\team\up\serviceteams\repo\model\Team.class

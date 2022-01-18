@@ -1,0 +1,7 @@
+com\team\up\serviceroles\ServiceRolesApplication.class
+com\team\up\serviceroles\exceptions\RoleNotFoundException.class
+com\team\up\serviceroles\api\RoleController.class
+com\team\up\serviceroles\api\config\RoleConfig.class
+com\team\up\serviceroles\repo\model\Role.class
+com\team\up\serviceroles\service\RoleService.class
+com\team\up\serviceroles\repo\RoleRepository.class
